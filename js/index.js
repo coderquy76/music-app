@@ -94,7 +94,7 @@ const app = {
         {
             'songName': 'Anh nen yeu co ta 2',
             'singer': 'Du Thien1',
-            'patch': './media/q1.mp3',
+            'patch': './media/BenTrenTangLauVersion2-TangDuyTan-7655070.mp3',
         },
         {
             'songName': 'Anh nen yeu co ta 3',
